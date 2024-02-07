@@ -1,4 +1,4 @@
-# SOLID Principles Explained 🇺🇸
+# SOLID Principles Explained - :🇺🇸:
 
 In this repository i'll explain what is solid and their principles, with examples you can find in the local folders, all made by myself. So, lets begin!
 
@@ -37,7 +37,7 @@ The Dependency Inversion Principle says: "You have to depend on abstrations and 
 we need care about link them by their interfaces (abstration) and not the class itself. That way we can desacoplate more our entities from anothers, creating a code flex scenario.
 <br />[(Code Example)](https://github.com/SirS4lute/SOLID-Principles/tree/master/dip)
 
-# Princípios do SOLID explicados 🇧🇷
+# Princípios do SOLID explicados - :🇧🇷:
 
 Neste repositório vou explicar o que é solid e seus princípios, com exemplos que você pode encontrar nas pastas locais, todos feitos por mim. Então, vamos começar!
 

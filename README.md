@@ -1,6 +1,6 @@
 # SOLID Principles Explained - 🇺🇸
 
-In this repository i'll explain what is solid and their principles, with examples you can find in the local folders, all made by myself. So, lets begin!
+In this repository i'll explain what is solid and their principles, with typescripts examples you can find in the local folders, all made by myself. So, lets begin!
 
 ## What is Solid?
 Solid is an acronyms for five good practice concepts in object oriented programming:

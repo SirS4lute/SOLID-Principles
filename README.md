@@ -1,4 +1,4 @@
-# SOLID Principles Explained - :🇺🇸:
+# SOLID Principles Explained - :us:
 
 In this repository i'll explain what is solid and their principles, with examples you can find in the local folders, all made by myself. So, lets begin!
 

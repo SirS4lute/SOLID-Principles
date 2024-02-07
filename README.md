@@ -8,7 +8,7 @@ Solid is an acronyms for five good practice concepts in object oriented programm
 * [Open-Closed Principle (__OCP__)](#ocpUs)
 * [Liskov Substitution Principle (__LSP__)](#lspUs)
 * [Interface Segregation Principle (__ISP__)](#ispUs)
-* [Dependency Inversion Principle (__DIP__)](#dipUs)
+* [Dependency Inversion Principle (__DIP__)](#dip-us)
 
 Below you can find each concept explained with the links to their respectives codes, use the __summary__ above to get in the sections.
 
@@ -32,7 +32,7 @@ This says that, one class its not obligated to implement interfaces that it won'
 So our class doesn't need to implement logic that doesn't fit and doesn't need to implement an interface or method that won't be useful.
 <br />[(Code Example)](https://github.com/SirS4lute/SOLID-Principles/tree/master/isp)
 
-### Dependency Inversion Principle <a name="dipUs"></a>
+### Dependency Inversion Principle <a name="dip-us"></a>
 The Dependency Inversion Principle says: "You have to depend on abstrations and not on implementations" wich means, everytime that we have a class agregated to another, 
 we need care about link them by their interfaces (abstration) and not the class itself. That way we can desacoplate more our entities from anothers, creating a code flex scenario.
 <br />[(Code Example)](https://github.com/SirS4lute/SOLID-Principles/tree/master/dip)

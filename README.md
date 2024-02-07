@@ -1,6 +1,6 @@
 # SOLID Principles Explained - 🇺🇸
 
-In this repository i'll explain what is solid and their principles, with typescripts examples you can find in the local folders, all made by myself. So, lets begin!
+In this repository i'll explain what is solid and their principles, with typescript examples you can find in the local folders, all made by myself. So, lets begin!
 
 ## What is Solid?
 Solid is an acronyms for five good practice concepts in object oriented programming:
@@ -39,7 +39,7 @@ we need care about link them by their interfaces (abstration) and not the class 
 
 # Princípios do SOLID explicados - 🇧🇷
 
-Neste repositório vou explicar o que é solid e seus princípios, com exemplos que você pode encontrar nas pastas locais, todos feitos por mim. Então, vamos começar!
+Neste repositório vou explicar o que é solid e seus princípios, com exemplos em typescript que você pode encontrar nas pastas locais, todos feitos por mim. Então, vamos começar!
 
 ## O que é solid?
 Solid é um acrônimo para cinco conceitos de boas práticas em programação orientada a objetos:

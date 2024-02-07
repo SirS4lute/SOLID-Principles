@@ -4,7 +4,7 @@ In this repository i'll explain what is solid and their principles, with typescr
 
 ## What is Solid?
 Solid is an acronyms for five good practice concepts in object oriented programming:
-* [Single Responsibility Principle (__SRP__)](#srpUs)
+* [Single Responsibility Principle](#srpUs)
 * [Open-Closed Principle (__OCP__)](#ocpUs)
 * [Liskov Substitution Principle (__LSP__)](#lspUs)
 * [Interface Segregation Principle (__ISP__)](#ispUs)
